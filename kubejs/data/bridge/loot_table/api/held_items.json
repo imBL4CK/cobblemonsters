@@ -1,0 +1,119 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:air_balloon",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:assault_vest",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:expert_belt",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:leftovers",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:choice_band",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:choice_specs",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:choice_scarf",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:muscle_band",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:focus_sash",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:heavy_duty_boots",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:life_orb",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:rocky_helmet",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:loaded_dice",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_glasses",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_belt",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:eject_button",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:scope_lens",
+          "weight": 20,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:shell_bell",
+          "weight": 20,
+          "quality": 20
+        }
+      ]
+    }
+  ]
+}

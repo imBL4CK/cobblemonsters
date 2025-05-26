@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:x_attack",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:x_defence",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:x_special_attack",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:x_special_defence",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:x_speed",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:x_accuracy",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:dire_hit",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:guard_spec",
+          "weight": 25,
+          "quality": 25
+        }
+      ]
+    }
+  ]
+}

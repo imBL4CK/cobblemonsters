@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:sinistea",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 2.5
+      },
+      {
+        "item": "create:builders_tea",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

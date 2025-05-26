@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:morelull",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:brown_mushroom",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:kebia_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "minecraft:glow_berries",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "farmersdelight:red_mushroom_colony",
+        "percentage": 50.0
+      },
+      {
+        "item": "farmersdelight:brown_mushroom_colony",
+        "percentage": 50.0
+      }
+    ]
+  }
+}

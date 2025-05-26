@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "vanillite-1",
+            "pokemon": "vanillite",
+            "presets": [
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "12-34",
+            "weight": 7,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_freezing",
+                    "#c:climate_cold",
+                    "#c:snowy"
+                ]
+            }
+        }
+    ]
+}

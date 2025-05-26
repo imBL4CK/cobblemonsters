@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+      {
+          "id": "volcanion-1",
+          "pokemon": "volcanion",
+          "presets": [],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "ultra-rare",
+          "canSeeSky":"true",
+          "level": "70",
+          "weight": 1,
+          "condition": {
+              "biomes": [
+                  "#cobblemon:is_hills"
+              ]
+          }
+      }
+  ]
+}

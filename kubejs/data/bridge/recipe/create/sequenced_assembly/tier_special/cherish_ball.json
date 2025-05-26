@@ -1,0 +1,79 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:sturdy_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": { "id": "cobblemon:cherish_ball" },
+      "count": 4
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:polished_rose_quartz"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:polished_rose_quartz" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:sturdy_sheet"
+        },
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:sturdy_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:sturdy_sheet"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:sturdy_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:sturdy_sheet"
+        },
+        {
+          "item": "cobblemon:red_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:sturdy_sheet" }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": { "id": "create:sturdy_sheet" }
+  }
+}

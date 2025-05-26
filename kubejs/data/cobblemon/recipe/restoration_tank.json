@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["III", "GRG", "GTG"],
+  "key": {
+    "I": {
+      "item": "create:sturdy_sheet"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "cobblemon:revive"
+    },
+    "T": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "id": "cobblemon:restoration_tank"
+  }
+}

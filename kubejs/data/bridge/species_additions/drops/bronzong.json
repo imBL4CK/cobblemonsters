@@ -1,0 +1,34 @@
+{
+    "target": "cobblemon:bronzong",
+    "drops": {
+      "amount": 6,
+      "entries": [
+        {
+          "item": "minecraft:iron_block"
+        },
+        {
+          "item": "create:zinc_block",
+          "percentage": 20.0
+        },
+        {
+          "item": "minecraft:bell"
+        },
+        {
+          "item": "minecraft:raw_iron",
+          "quantityRange": "0-2"
+        },
+        {
+          "item": "cobblemon:mental_herb",
+          "percentage": 5.0
+        },
+        {
+          "item": "cobblemon:light_clay",
+          "percentage": 5.0
+        },
+        {
+          "item": "cobblemon:occa_berry",
+          "percentage": 5.0
+        }
+      ]
+    }
+  }

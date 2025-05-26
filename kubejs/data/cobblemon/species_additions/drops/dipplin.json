@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:dipplin",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "create:honeyed_apple",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:apple"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "entryId": "cobblemon:magearna",
+    "forms": [
+      {
+        "icon": "cobblemon:textures/gui/pokedex/variation/color.png",
+        "displayForm": "Original",
+        "unlockForms": ["Original"]
+      }
+    ]
+ }

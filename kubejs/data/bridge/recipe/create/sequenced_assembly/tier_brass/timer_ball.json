@@ -1,0 +1,97 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 4,
+      "item": {
+        "id": "cobblemon:timer_ball"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:brass_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:brass_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_sheet"
+        },
+        {
+          "item": "create:zinc_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:brass_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_sheet"
+        },
+        {
+          "item": "cobblemon:red_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:brass_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_sheet"
+        },
+        {
+          "item": "cobblemon:white_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:brass_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:brass_sheet"
+        },
+        {
+          "item": "cobblemon:black_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:brass_sheet" }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": { "id": "create:brass_sheet" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:gimmighoul",
+  "drops": {
+    "amount": 32,
+    "entries": [
+      {
+        "item": "cobblemon:relic_coin",
+        "quantityRange": "24-48"
+      },
+      {
+        "item": "createdeco:gold_coin",
+        "quantityRange": "6-12"
+      }
+    ]
+  }
+}

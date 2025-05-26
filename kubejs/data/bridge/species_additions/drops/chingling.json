@@ -1,0 +1,23 @@
+{
+    "target": "cobblemon:chingling",
+    "drops": {
+      "amount": 3,
+      "entries": [
+        {
+          "item": "minecraft:bell"
+        },
+        {
+          "item": "cobblemon:colbur_berry",
+          "percentage": 2.5
+        },
+        {
+          "item": "cobblemon:soothe_bell",
+          "percentage": 2.5
+        },
+        {
+          "item": "cobblemon:cleanse_tag",
+          "percentage": 2.5
+        }
+      ]
+    }
+  }

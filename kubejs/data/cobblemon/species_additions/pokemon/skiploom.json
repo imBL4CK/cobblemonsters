@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:skiploom",
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 1,
+    "height": 0.9,
+    "fixed": false
+  }
+}

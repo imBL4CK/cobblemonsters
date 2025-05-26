@@ -1,0 +1,18 @@
+{
+  "target": "cobblemon:fidough",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "create:dough"
+      },
+      {
+        "item": "farmersdelight:wheat_dough"
+      },
+      {
+        "item": "minecraft:bread",
+        "percentage": 50.0
+      }
+    ]
+  }
+}

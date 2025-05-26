@@ -1,0 +1,27 @@
+{
+    "target": "cobblemon:dipplin",
+    "drops": {
+      "amount": 2,
+      "entries": [
+        {
+          "item": "minecraft:apple",
+          "quantityRange": "1-2"
+        },
+        {
+          "item": "minecraft:golden_apple",
+          "percentage": 20.0
+        },
+        {
+          "item": "minecraft:golden_apple",
+          "percentage": 5.0
+        },
+        {
+          "item": "create:honeyed_apple"
+        },
+        {
+          "item": "farmersdelight:apple_pie",
+          "quantityRange": "1-2"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,156 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 4,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:cabbage",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:tomato",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:onion",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:rice",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:fried_egg",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:wheat_dough",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:ham",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:pumpkin_slice",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:bacon",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rusticdelight:bell_pepper_red",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rusticdelight:bell_pepper_yellow",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rusticdelight:bell_pepper_green",
+          "weight": 10,
+          "quality": 5
+        }
+      ]
+    },
+    {
+      "rolls": 4,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:flour",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:orange",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:plum",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:hoary_apple",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:coconut",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:spongekin_slice",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:lemon",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:elderberries",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:lapisberries",
+          "weight": 10,
+          "quality": 5,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:maize",
+          "weight": 10,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bountifulfares:leek",
+          "weight": 10,
+          "quality": 5
+        }
+      ]
+    }
+  ]
+}

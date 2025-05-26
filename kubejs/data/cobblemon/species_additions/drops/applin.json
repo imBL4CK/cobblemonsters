@@ -1,0 +1,19 @@
+{
+  "target": "cobblemon:applin",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "createfood:apple_slice",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "minecraft:apple"
+      }
+    ]
+  }
+}

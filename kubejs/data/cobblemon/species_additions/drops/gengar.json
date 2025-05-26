@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:gengar",
+  "drops": {
+    "amount": "5",
+    "entries": [
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:payapa_berry",
+        "percentage": 10.0
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 10.0
+      },
+      {
+        "item": "minecraft:skeleton_skull",
+        "percentage": 4.5
+      },
+      {
+        "item": "minecraft:wither_skeleton_skull",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

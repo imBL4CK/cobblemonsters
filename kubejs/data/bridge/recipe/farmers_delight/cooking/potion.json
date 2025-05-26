@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "tag": "bridge:api/berries"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblemon:potion"
+  },
+  "recipe_book_tab": "drinks",
+  "experience": 1.0
+}

@@ -1,0 +1,31 @@
+{
+  "target": "cobblemon:gourgeist",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:pumpkin"
+      },
+      {
+        "item": "minecraft:pumpkin_pie",
+        "percentage": 25.0
+      },
+      {
+        "item": "farmersdelight:pumpkin_slice",
+        "percentage": 50.0
+      },
+      {
+        "item": "farmersdelight:stuffed_pumpkin_block",
+        "percentage": 30.0
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

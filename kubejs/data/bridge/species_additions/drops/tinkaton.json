@@ -1,0 +1,20 @@
+{
+    "target": "cobblemon:tinkaton",
+    "drops": {
+      "amount": 4,
+      "entries": [
+        {
+          "item": "minecraft:mace",
+          "percentage": 0.25
+        },
+        {
+          "item": "minecraft:raw_iron",
+          "quantityRange": "0-3"
+        },
+        {
+          "item": "cobblemon:razz_berry",
+          "percentage": 10.0
+        }
+      ]
+    }
+  }

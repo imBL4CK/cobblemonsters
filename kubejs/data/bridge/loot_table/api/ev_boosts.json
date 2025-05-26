@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 2,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:hp_up",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:protein",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:iron",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:calcium",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:zinc",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:carbos",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pp_up",
+          "weight": 25,
+          "quality": 25,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pp_max",
+          "weight": 10,
+          "quality": 20,
+          "conditions": []
+        }
+      ]
+    }
+  ]
+}

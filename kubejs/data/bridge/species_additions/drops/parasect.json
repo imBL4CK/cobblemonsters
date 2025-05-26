@@ -1,0 +1,23 @@
+{
+  "target": "cobblemon:parasect",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "farmersdelight:red_mushroom_colony",
+        "percentage": 50.0
+      },
+      {
+        "item": "farmersdelight:brown_mushroom_colony",
+        "percentage": 50.0
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "cobblemon:coba_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

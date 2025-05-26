@@ -1,0 +1,32 @@
+{
+    "target": "cobblemon:applin",
+    "drops": {
+      "amount": 2,
+      "entries": [
+        {
+          "item": "minecraft:apple",
+          "quantityRange": "1-2"
+        },
+        {
+          "item": "cobblemon:yache_berry",
+          "percentage": 2.5
+        },
+        {
+          "item": "minecraft:golden_apple",
+          "percentage": 5.0
+        },
+        {
+          "item": "cobblemon:tart_apple",
+          "percentage": 10.0
+        },
+        {
+          "item": "cobblemon:sweet_apple",
+          "percentage": 10.0
+        },
+        {
+          "item": "farmersdelight:apple_pie",
+          "quantityRange": "1-2"
+        }
+      ]
+    }
+  }

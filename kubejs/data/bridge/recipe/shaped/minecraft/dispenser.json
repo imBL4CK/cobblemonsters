@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CBC",
+    "SRS"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:cobblestones"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "S": {
+      "tag": "c:plates/copper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "minecraft:dispenser"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:crabominable",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

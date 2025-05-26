@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "PTZ",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:cobblestones"
+    },
+    "P": {
+      "item": "create:polished_rose_quartz"
+    },
+    "T": {
+      "item": "create:transmitter"
+    },
+    "Z": {
+      "tag": "c:ingots/zinc"
+    }
+  },
+  "result": {
+    "id": "minecraft:observer"
+  }
+}

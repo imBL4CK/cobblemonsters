@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:hoppip",
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 0.9,
+    "height": 0.9,
+    "fixed": false
+  }
+}

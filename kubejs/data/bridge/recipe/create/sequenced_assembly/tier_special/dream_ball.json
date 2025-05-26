@@ -1,0 +1,95 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:polished_rose_quartz"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": { "id": "cobblemon:dream_ball" },
+      "count": 4
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:polished_rose_quartz"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:polished_rose_quartz" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:polished_rose_quartz"
+        },
+        {
+          "item": "create:zinc_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:polished_rose_quartz" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:polished_rose_quartz"
+        },
+        {
+          "item": "cobblemon:red_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:polished_rose_quartz" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:polished_rose_quartz"
+        },
+        {
+          "item": "cobblemon:pink_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:polished_rose_quartz" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:polished_rose_quartz"
+        },
+        {
+          "item": "cobblemon:blue_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:polished_rose_quartz" }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": { "id": "create:polished_rose_quartz" }
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 2.0,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "count": 2,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:great_ball",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "count": 2,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:safari_ball",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "count": 4,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:ultra_ball",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 8
+                  }
+                ]
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "count": 4,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:dusk_ball",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 8
+                  }
+                ]
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "count": 4,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:quick_ball",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 8
+                  }
+                ]
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "count": 4,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:dive_ball",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 8
+                  }
+                ]
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "count": 4,
+                    "function": "minecraft:set_count"
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:rabbit_hide",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:saddle"
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_sack",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:map",
+                "functions": [
+                  {
+                    "function": "minecraft:exploration_map",
+                    "destination": "encounters:catacomb",
+                    "decoration": "minecraft:red_x",
+                    "zoom": 1
+                  },
+                  {
+                    "function": "minecraft:set_name",
+                    "destination": "encounters:catacomb",
+                    "decoration": "minecraft:red_x",
+                    "zoom": 1,
+                    "name": {
+                      "translate": "encounters.item.catacomb_map",
+                      "fallback": "Catacomb Map"
+                    }
+                  }
+                ]
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.15,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_sack",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:wither_skeleton_skull"
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.15,
+              "trader_experience": 1.5
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:wither_skeleton_skull"
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.15,
+              "trader_experience": 1.5
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:name_tag"
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:nautilus_shell"
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:lily_pad",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:lily_pad",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cactus",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:spore_blossom"
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:dead_bush"
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 16
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:energy_root",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 4,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:revival_herb"
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:super_potion"
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblemon:heal_powder"
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 2,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:apple_pie",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:barbecue_stick",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:hamburger",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:steak_and_potatoes",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:pasta_with_meatballs",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "bountifulfares:forest_medley",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "bountifulfares:meadow_medley",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "bountifulfares:crusted_beef",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 12
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "bountifulfares:tropical_medley",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "max_uses": 8,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "exposure:camera"
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 5
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "exposure:developed_black_and_white_film",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 2
+                    }
+                ]
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "exposure:developed_color_film"
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "supplementaries:bomb",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 2
+                    }
+                ]
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 2
+                    }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "supplementaries:quiver"
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_sack"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "cobblenav:pokenav_item_old"
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 2
+                    }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "sophisticatedbackpacks:copper_backpack"
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 2
+                    }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "simpletms:tr_blank"
+              },
+              "max_uses": 5,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                    {
+                        "function": "minecraft:set_count",
+                        "count": 3
+                    }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "simpletms:tm_blank"
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch"
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "supplementaries:lunch_basket"
+              },
+              "max_uses": 1,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    }
+  ]
+}

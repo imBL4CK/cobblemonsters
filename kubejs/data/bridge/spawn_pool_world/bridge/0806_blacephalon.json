@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "blacephalon-1",
+            "pokemon": "blacephalon",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                   "#cobblemon:is_end"
+                ]
+            }
+        }
+    ]
+}

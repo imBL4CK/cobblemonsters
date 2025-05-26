@@ -1,0 +1,28 @@
+{
+    "target": "cobblemon:misdreavus",
+    "drops": {
+      "amount": 3,
+      "entries": [
+        {
+          "item": "minecraft:phantom_membrane",
+          "percentage": 2.5
+        },
+        {
+          "item": "cobblemon:spell_tag",
+          "percentage": 2.5
+        },
+        {
+          "item": "cobblemon:kasib_berry",
+          "percentage": 2.5
+        },
+        {
+          "item": "minecraft:echo_shard",
+          "percentage": 5.0
+        },
+        {
+          "item": "minecraft:schulk_sensor",
+          "percentage": 10.0
+        }
+      ]
+    }
+  }

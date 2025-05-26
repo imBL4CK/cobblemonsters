@@ -1,0 +1,39 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "darkrai-1",
+            "pokemon": "darkrai",
+            "presets": [ "natural", "wild"],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "#minecraft:dark_forest"
+                ],
+                "timeRange": "night"
+            }
+
+        },        
+        {
+            "id": "darkrai-2",
+            "pokemon": "darkrai",
+            "presets": ["natural", "wild"],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.5,
+            "condition": {
+                "biomes": [
+                    "minecraft:deep_dark"
+                ]
+            }
+        }
+    ]
+}

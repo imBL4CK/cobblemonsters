@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "bridge:api/berries"
+    },
+    {
+      "tag": "bridge:api/berries"
+    },
+    {
+      "tag": "bridge:api/berries"
+    },
+    {
+      "tag": "bridge:api/berries"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "create:honey"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "create:chocolate"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "cobblemon:exp_candy_xs"
+      }
+    }
+  ]
+}

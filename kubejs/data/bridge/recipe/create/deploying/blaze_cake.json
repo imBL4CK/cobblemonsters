@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:blaze_cake_base"
+    },
+    {
+      "item": "cobblemon:fire_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "create:blaze_cake"
+      }
+    }
+  ]
+}

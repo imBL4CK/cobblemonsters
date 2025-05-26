@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:gholdengo",
+  "drops": {
+    "amount": 64,
+    "entries": [
+      {
+        "item": "cobblemon:relic_coin",
+        "quantityRange": "24-48"
+      },
+      {
+        "item": "createdeco:gold_coin",
+        "quantityRange": "12-24"
+      }
+    ]
+  }
+}

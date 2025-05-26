@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["DRD", "IGI", "DAD"],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "create:andesite_alloy"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "create:electron_tube"
+    },
+    "A": {
+      "item": "create:copper_sheet"
+    }
+  },
+  "result": {
+    "id": "cobblemon:fossil_analyzer"
+  }
+}

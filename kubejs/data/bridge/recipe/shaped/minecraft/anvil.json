@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " S ",
+    "ZZZ"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "tag": "c:plates/iron"
+    },
+    "Z": {
+      "tag": "c:ingots/zinc"
+    }
+  },
+  "result": {
+    "id": "minecraft:anvil"
+  }
+}

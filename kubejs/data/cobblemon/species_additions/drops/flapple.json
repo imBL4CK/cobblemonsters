@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:flapple",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 10.0
+      },
+      {
+        "item": "minecraft:apple"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:bloodmoonursaluna",
+  "drops": {
+    "amount": 11,
+    "entries": [
+      {
+        "item": "minecraft:sweet_berries",
+        "quantityRange": "3-5"
+      },
+      {
+        "item": "minecraft:honey_bottle",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:peat_block",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

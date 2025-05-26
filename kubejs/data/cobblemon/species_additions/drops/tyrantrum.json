@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:tyrantrum",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "cobblemon:razor_fang",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

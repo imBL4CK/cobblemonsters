@@ -1,0 +1,37 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "bisharp-1",
+            "pokemon": "bisharp",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "11-28",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                    "minecraft:savanna_plateau"
+                ]
+            }
+        },
+        {
+            "id": "bisharp-2",
+            "pokemon": "bisharp",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "11-28",
+            "weight": 3,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_hills"
+                ]
+            }
+        }
+    ]
+}

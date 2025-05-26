@@ -1,0 +1,24 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "hoopa-1",
+            "pokemon": "hoopa",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.5,
+            "condition": {
+                "structures": [
+                    "minecraft:desert_pyramid"
+                ]
+            }
+        }
+    ]
+}

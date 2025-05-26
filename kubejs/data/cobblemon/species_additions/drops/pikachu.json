@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:pikachu",
+  "drops": {
+    "amount": "3",
+    "entries": [
+      {
+        "item": "minecraft:ochre_froglight",
+        "percentage": 3.5
+      },
+      {
+        "item": "cobblemon:thunder_stone",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

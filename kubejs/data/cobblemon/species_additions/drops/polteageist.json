@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:polteageist",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 2.5
+      },
+      {
+        "item": "create:builders_tea",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

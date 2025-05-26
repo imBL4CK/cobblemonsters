@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "cobblemon:sweets",
+      "count": 2
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "cobblemon:hyper_potion"
+    },
+    {
+      "item": "cobblemon:hyper_potion"
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": {
+        "id": "cobblemon:max_potion"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "moltres-1",
+            "pokemon": "moltres",
+            "presets": ["natural"],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 0.5,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:badlands", 
+                    "minecraft:desert",
+                    "#minecraft:is_savanna"
+                ],
+                "isRaining": false,
+                "timeRange": "day"
+            }
+        }
+    ]
+}

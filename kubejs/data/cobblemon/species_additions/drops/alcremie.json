@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:alcremie",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "createfood:cream_frosting_bottle",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:sugar",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:cake",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

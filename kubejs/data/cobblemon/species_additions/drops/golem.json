@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:golem",
+  "drops": {
+    "amount": "5",
+    "entries": [
+      {
+        "item": "minecraft:gunpowder",
+        "quantityRange": "0-4"
+      },
+      {
+        "item": "minecraft:flint",
+        "quantityRange": "0-3"
+      },
+      {
+        "item": "cobblemon:everstone",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:black_augurite",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

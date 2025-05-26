@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "cobblemon:fine_remedy"
+    },
+    {
+      "item": "cobblemon:big_root"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "cobblemon:super_potion"
+    },
+    {
+      "item": "cobblemon:super_potion"
+    },
+    {
+      "item": "cobblemon:super_potion"
+    },
+    {
+      "item": "cobblemon:super_potion"
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": {
+        "id": "cobblemon:hyper_potion"
+      }
+    }
+  ]
+}

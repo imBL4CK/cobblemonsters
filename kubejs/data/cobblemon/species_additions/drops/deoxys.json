@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:deoxys",
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "ad_astra:desh_ingot",
+        "quantityRange": "1-4"
+      },
+      {
+        "item": "minecraft:eye_of_ender"
+      }
+    ]
+  }
+}

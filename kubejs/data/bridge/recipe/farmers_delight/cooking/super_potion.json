@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "cobblemon:remedy"
+    },
+    {
+      "item": "cobblemon:energy_root"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblemon:super_potion"
+  },
+  "recipe_book_tab": "drinks",
+  "experience": 1.0
+}

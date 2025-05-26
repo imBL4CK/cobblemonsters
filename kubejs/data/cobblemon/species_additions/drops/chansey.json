@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:chansey",
+  "drops": {
+    "amount": "3",
+    "entries": [
+      {
+        "item": "minecraft:egg",
+        "percentage": 33.0
+      },
+      {
+        "item": "cobblemon:oval_stone",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:lucky_egg",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

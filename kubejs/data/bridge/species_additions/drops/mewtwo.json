@@ -1,0 +1,26 @@
+{
+    "target": "cobblemon:mewtwo",
+    "drops": {
+      "amount": 2,
+      "entries": [
+        {
+          "item": "minecraft:nether_star",
+          "percentage": 0.25
+        },
+        {
+          "item": "minecraft:end_crystal",
+          "percentage": 5.0
+        },
+        {
+          "item": "minecraft:ender_pearl",
+          "percentage": 2.0
+        },
+        {
+          "item": "cobblemon:psychic_gem"
+        },
+        {
+          "item": "cobblemon:twisted_spoon"
+        }
+      ]
+    }
+  }

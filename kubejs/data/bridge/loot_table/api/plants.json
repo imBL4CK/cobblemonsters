@@ -1,0 +1,107 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 2,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pinap_berry",
+          "weight": 30,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:wepear_berry",
+          "weight": 30,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:nanab_berry",
+          "weight": 30,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:bluk_berry",
+          "weight": 30,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:razz_berry",
+          "weight": 30,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:big_root",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:energy_root",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:revival_herb",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pep_up_flower",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:white_herb",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:power_herb",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:mental_herb",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:mirror_herb",
+          "weight": 10,
+          "quality": 25
+        },  
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:medicinal_leek",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:vivichoke",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:galarica_nuts",
+          "weight": 5,
+          "quality": 30
+        }
+      ]
+    }
+  ]
+}

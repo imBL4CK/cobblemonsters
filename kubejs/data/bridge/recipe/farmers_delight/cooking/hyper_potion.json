@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "cobblemon:fine_remedy"
+    },
+    {
+      "item": "cobblemon:big_root"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblemon:hyper_potion"
+  },
+  "recipe_book_tab": "drinks",
+  "experience": 1.0
+}

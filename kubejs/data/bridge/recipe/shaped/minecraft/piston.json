@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "CIC",
+    "CRC"
+  ],
+  "key": {
+    "S": {
+      "tag": "c:plates/copper"
+    },
+    "C": {
+      "tag": "c:cobblestones"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "minecraft:piston"
+  }
+}

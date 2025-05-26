@@ -1,0 +1,38 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "trubbish-1",
+            "pokemon": "trubbish",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "15-35",
+            "weight": 8,
+            "condition": {
+                "biomes": [
+                    "#c:swamp",
+                    "minecraft:swamp"
+                ]
+            }
+        },
+        {
+            "id": "trubbish-2",
+            "pokemon": "trubbish",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "10-27",
+            "weight": 8,
+            "condition": {
+                "structures": [
+                    "#minecraft:village"
+                ]
+            }
+        }
+    ]
+}

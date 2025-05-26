@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "entei-1",
+            "pokemon": "entei",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50",
+            "weight": 33.0,
+            "condition": {
+                "structures": [
+                    "encounters:ecruteak_village"
+                ]
+            }
+        }
+    ]
+}

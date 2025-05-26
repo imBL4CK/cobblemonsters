@@ -1,0 +1,97 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:gold_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 6,
+      "item": {
+        "id": "cobblemon:ancient_jet_ball"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:gold_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:gold_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:gold_sheet"
+        },
+        {
+          "item": "create:gold_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:gold_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:gold_sheet"
+        },
+        {
+          "item": "cobblemon:white_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:gold_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:gold_sheet"
+        },
+        {
+          "item": "cobblemon:blue_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:gold_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:gold_sheet"
+        },
+        {
+          "item": "cobblemon:sky_tumblestone"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:gold_sheet" }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": { "id": "create:gold_sheet" }
+  }
+}

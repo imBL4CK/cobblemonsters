@@ -1,0 +1,9 @@
+{
+  "target": "cobblemon:solosis",
+  "baseScale": 0.75,
+  "hitbox": {
+    "width": 1,
+    "height": 1.4,
+    "fixed": false
+  }
+}

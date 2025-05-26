@@ -1,0 +1,81 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:copper_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 6,
+      "item": {
+        "id": "cobblemon:ancient_azure_ball"
+      }
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:copper_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        },
+        {
+          "item": "create:copper_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:copper_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        },
+        {
+          "item": "cobblemon:blue_apricorn"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:copper_sheet" }
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:copper_sheet"
+        },
+        {
+          "item": "cobblemon:tumblestone"
+        }
+      ],
+      "results": [
+        {
+          "item": { "id": "create:copper_sheet" }
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "item": { "id": "create:copper_sheet" }
+  }
+}

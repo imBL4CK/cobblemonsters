@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "cobblemon:heal_powder"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblemon:revive"
+  },
+  "recipe_book_tab": "drinks",
+  "experience": 1.0
+}

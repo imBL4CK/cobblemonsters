@@ -1,0 +1,144 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 3,
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:medicinal_brew",
+          "weight": 20,
+          "quality": 15,
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:potion",
+          "weight": 30,
+          "quality": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:super_potion",
+          "weight": 20,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:hyper_potion",
+          "weight": 10,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:max_potion",
+          "weight": 5,
+          "quality": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:full_restore",
+          "weight": 2,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:antidote",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:awakening",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:burn_heal",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ice_heal",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:paralyze_heal",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:full_heal",
+          "weight": 10,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ether",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:max_ether",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:elixir",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:max_elixir",
+          "weight": 25,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:revive",
+          "weight": 20,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:max_revive",
+          "weight": 10,
+          "quality": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:remedy",
+          "weight": 30,
+          "quality": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fine_remedy",
+          "weight": 25,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:superb_remedy",
+          "weight": 20,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:heal_powder",
+          "weight": 25,
+          "quality": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "spectrier-1",
+            "pokemon": "spectrier",
+            "presets": [
+                "natural",
+				"wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#minecraft:dark_forest"
+                ]
+            }
+
+        }
+    ]
+}

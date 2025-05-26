@@ -1,0 +1,40 @@
+{
+  "target": "cobblemon:mandibuzz",
+  "behaviour": {
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    }
+  },
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:rotten_flesh",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "cobblemon:sharp_beak",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:bluk_berry",
+        "percentage": 5.0
+      }
+    ]
+  },
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 1,
+    "height": 2,
+    "fixed": false
+  }
+}

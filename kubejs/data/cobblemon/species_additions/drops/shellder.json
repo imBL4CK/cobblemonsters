@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:shellder",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "minecraft:shulker_shell",
+        "percentage": 2.5
+      },
+      {
+        "item": "beachparty:seashell",
+        "percentage": 50.0
+      },
+      {
+        "item": "ecologics:seashell",
+        "percentage": 50.0
+      }
+    ]
+  }
+}

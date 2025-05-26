@@ -1,0 +1,38 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "garbodor-1",
+            "pokemon": "garbodor",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "21-47",
+            "weight": 5,
+            "condition": {
+                "biomes": [
+                    "#c:swamp",
+                    "minecraft:swamp"
+                ]
+            }
+        },
+        {
+            "id": "garbodor-2",
+            "pokemon": "garbodor",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "23-47",
+            "weight": 5,
+            "condition": {
+                "structures": [
+                    "#minecraft:village"
+                ]
+            }
+        }
+    ]
+}

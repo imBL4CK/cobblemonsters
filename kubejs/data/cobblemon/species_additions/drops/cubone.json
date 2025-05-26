@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:cubone",
+  "drops": {
+    "amount": "3",
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "percentage": 50
+      },
+      {
+        "item": "minecraft:skeleton_skull",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:nanab_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "minecraft:wither_skeleton_skull",
+        "percentage": 1.25
+      }
+    ]
+  }
+}

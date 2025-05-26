@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:gossifleur",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "etcetera:cotton_seeds",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:coba_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

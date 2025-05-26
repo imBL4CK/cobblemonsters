@@ -1,0 +1,27 @@
+{
+  "target": "cobblemon:pumpkaboo",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:pumpkin"
+      },
+      {
+        "item": "minecraft:pumpkin_pie",
+        "percentage": 25.0
+      },
+      {
+        "item": "farmersdelight:pumpkin_slice",
+        "percentage": 50.0
+      },
+      {
+        "item": "cobblemon:miracle_seed",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

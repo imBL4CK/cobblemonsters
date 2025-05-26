@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:clamperl",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:prismarine_shard",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:shulker_shell",
+        "percentage": 10.0
+      },
+      {
+        "item": "beachparty:seashell",
+        "percentage": 50.0
+      }
+    ]
+  }
+}

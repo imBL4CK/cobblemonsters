@@ -1,0 +1,41 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "indeedee-1",
+            "pokemon": "indeedee",
+            "presets": [
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-35",
+            "weight": 10,
+            "condition": {
+                "minSkyLight": 7,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "minecraft:dark_forest"
+                ]
+            }
+        },
+        {
+            "id": "indeedee-2",
+            "pokemon": "indeedee",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "12-32",
+            "weight": 10,
+            "condition": {
+                "structures": [
+                    "#minecraft:village"
+                ]
+            }
+        }
+    ]
+}

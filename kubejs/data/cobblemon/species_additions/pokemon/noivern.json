@@ -1,0 +1,39 @@
+{
+  "target": "cobblemon:noivern",
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.4
+      },
+      "walk": {
+        "walkSpeed": 0.35
+      }
+    }
+  },
+  "baseScale": 1,
+  "hitbox": {
+    "width": 2,
+    "height": 2,
+    "fixed": false
+  },
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:yache_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

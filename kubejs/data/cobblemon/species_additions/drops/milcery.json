@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:milcery",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "farmersdelight:milk_bottle",
+        "percentage": 25.0
+      }
+    ]
+  }
+}

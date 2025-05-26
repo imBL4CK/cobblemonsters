@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:golbat",
+  "drops": {
+    "amount": "3",
+    "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:razor_fang",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

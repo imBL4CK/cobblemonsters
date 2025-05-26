@@ -1,0 +1,98 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "create:zinc_ingot"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "count": 4,
+        "item": {
+          "id": "cobblemon:friend_ball"
+        }
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "create:zinc_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": { "id": "create:zinc_ingot" }
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:zinc_ingot"
+          },
+          {
+            "item": "create:zinc_nugget"
+          }
+        ],
+        "results": [
+          {
+            "item": { "id": "create:zinc_ingot" }
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:zinc_ingot"
+          },
+          {
+            "item": "cobblemon:yellow_apricorn"
+          }
+        ],
+        "results": [
+          {
+            "item": { "id": "create:zinc_ingot" }
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:zinc_ingot"
+          },
+          {
+            "item": "cobblemon:green_apricorn"
+          }
+        ],
+        "results": [
+          {
+            "item": { "id": "create:zinc_ingot" }
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:zinc_ingot"
+          },
+          {
+            "item": "cobblemon:red_apricorn"
+          }
+        ],
+        "results": [
+          {
+            "item": { "id": "create:zinc_ingot" }
+          }
+        ]
+      }
+    ],
+    "transitional_item": {
+      "item": { "id": "create:zinc_ingot" }
+    }
+  }
+  

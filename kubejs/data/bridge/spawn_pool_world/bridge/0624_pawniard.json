@@ -1,0 +1,37 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "pawniard-1",
+            "pokemon": "pawniard",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "11-28",
+            "weight": 6,
+            "condition": {
+                "biomes": [
+                    "minecraft:savanna_plateau"
+                ]
+            }
+        },
+        {
+            "id": "pawniard-2",
+            "pokemon": "pawniard",
+            "presets": [],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "11-28",
+            "weight": 6,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_hills"
+                ]
+            }
+        }
+    ]
+}

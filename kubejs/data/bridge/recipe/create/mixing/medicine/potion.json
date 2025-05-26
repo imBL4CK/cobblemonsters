@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "bridge:api/berries"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": {
+        "id": "cobblemon:potion"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:shiinotic",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:brown_mushroom",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:kebia_berry",
+        "percentage": 5.0
+      },
+      {
+        "item": "minecraft:glow_berries",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "farmersdelight:red_mushroom_colony",
+        "percentage": 50.0
+      },
+      {
+        "item": "farmersdelight:brown_mushroom_colony",
+        "percentage": 50.0
+      }
+    ]
+  }
+}

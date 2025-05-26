@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:tauros",
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "minecraft:leather",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:beef",
+        "quantityRange": "1-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:greattusk",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

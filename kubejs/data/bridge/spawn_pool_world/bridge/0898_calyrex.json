@@ -1,0 +1,29 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "calyrex-1",
+            "pokemon": "calyrex",
+            "presets": [
+                "natural",
+				"wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "70",
+            "weight": 1,
+            "condition": {
+                "biomes": [
+                    "#minecraft:snowy_taiga"
+                ],
+                "structures": [
+                    "minecraft:village"
+                ]
+            }
+
+        }
+    ]
+}
