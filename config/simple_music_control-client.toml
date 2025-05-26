@@ -1,0 +1,15 @@
+enableNextTrackKeybind = true
+stopMusicOnJukeboxUse = true
+creativeMusicInSurvival = true
+situationalMusicInCreative = true
+unlockSituationalMusic = false
+# Default: 70
+# Range: 1 ~ 100
+situationalMusicChance = 70
+modifyMusicDelays = true
+# Default: 600
+# Range: > 1
+musicMinDelay = 200
+# Default: 1200
+# Range: > 1
+musicMaxDelay = 220

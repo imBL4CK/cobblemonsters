@@ -1,0 +1,11 @@
+{
+  "geodesEnabled": true,
+  "megastonesEnabled": true,
+  "maxMegaPokemon": 1,
+  "megaForms": [
+    "mega",
+    "mega-x",
+    "mega-y"
+  ],
+  "specialMegaForms": {}
+}

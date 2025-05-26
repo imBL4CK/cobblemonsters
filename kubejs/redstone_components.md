@@ -1,0 +1,9 @@
+# Cobre
+- Pistao
+- Dispenser
+- Dropper
+- Trilhos
+# Zinco
+- Crafter
+- Hopper
+- Observer
