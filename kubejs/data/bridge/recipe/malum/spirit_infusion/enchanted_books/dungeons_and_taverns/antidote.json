@@ -1,0 +1,40 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 4
+    },
+    {
+      "type": "sacred",
+      "count": 4
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:honeycomb",
+      "count": 2
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "nova_structures:antidote": 1
+        }
+      }
+    }
+  }
+}

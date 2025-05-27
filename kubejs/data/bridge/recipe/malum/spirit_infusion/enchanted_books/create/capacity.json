@@ -1,0 +1,33 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 10
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "tag": "c:glass_blocks",
+      "count": 4
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "create:capacity": 2
+        }
+      }
+    }
+  }
+}

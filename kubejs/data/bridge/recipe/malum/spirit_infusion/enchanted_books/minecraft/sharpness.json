@@ -1,0 +1,37 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "aerial",
+      "count": 12
+    },
+    {
+      "type": "arcane",
+      "count": 16
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "tag": "c:gems/quartz",
+      "count": 4
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:sharpness": 3
+        }
+      }
+    }
+  }
+}

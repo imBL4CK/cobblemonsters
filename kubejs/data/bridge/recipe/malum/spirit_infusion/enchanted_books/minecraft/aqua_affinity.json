@@ -1,0 +1,44 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "aqueous",
+      "count": 6
+    },
+    {
+      "type": "arcane",
+      "count": 2
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:prismarine_shard",
+      "count": 2
+    },
+    {
+      "item": "minecraft:prismarine_crystals",
+      "count": 2
+    },
+    {
+      "item": "supplementaries:bubble_blower"
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:aqua_affinity": 1
+        }
+      }
+    }
+  }
+}

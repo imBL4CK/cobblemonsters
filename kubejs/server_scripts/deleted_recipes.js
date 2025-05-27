@@ -14,6 +14,7 @@ ServerEvents.recipes((event) => {
       "minecraft:repeater",
       "minecraft:comparator",
       "minecraft:anvil",
+      "minecraft:ender_eye"
     ];
     remove_recipe_recipeid.forEach((recipeID) => {
       event.remove({ id: recipeID });

@@ -1,0 +1,43 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "aerial",
+      "count": 12
+    },
+    {
+      "type": "arcane",
+      "count": 4
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 8
+    },
+    {
+      "item": "cobblemon:scope_lens"
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:power": 3
+        }
+      }
+    }
+  }
+}

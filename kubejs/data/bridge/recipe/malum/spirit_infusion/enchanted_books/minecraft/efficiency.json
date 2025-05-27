@@ -1,0 +1,41 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 16
+    },
+    {
+      "type": "arcane",
+      "count": 12
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:redstone",
+      "count": 16
+    },
+    {
+      "tag": "c:gems/amethyst",
+      "count": 2
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:efficiency": 3
+        }
+      }
+    }
+  }
+}

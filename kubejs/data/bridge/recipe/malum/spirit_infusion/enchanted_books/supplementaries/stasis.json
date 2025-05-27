@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "arcane",
+      "count": 4
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    },
+    {
+      "item": "malum:refined_brilliance"
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "supplementaries:stasis": 1
+        }
+      }
+    }
+  }
+}

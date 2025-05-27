@@ -1,0 +1,45 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "eldritch",
+      "count": 16
+    },
+    {
+      "type": "arcane",
+      "count": 16
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:wind_charge",
+      "count": 3
+    },
+    {
+      "item": "malum:astral_weave",
+      "count": 2
+    },
+    {
+      "item": "malum:void_salts",
+      "count": 4
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "malum:ascension": 1
+        }
+      }
+    }
+  }
+}

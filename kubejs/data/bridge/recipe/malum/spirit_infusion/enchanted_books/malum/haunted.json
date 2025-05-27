@@ -1,0 +1,45 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "eldritch",
+      "count": 12
+    },
+    {
+      "type": "arcane",
+      "count": 12
+    },
+    {
+      "type": "wicked",
+      "count": 12
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "tag": "c:plates/iron",
+      "count": 4
+    },
+    {
+      "item": "cobblemon:deep_sea_tooth",
+      "count": 4
+    },
+    {
+      "item": "malum:refined_soulstone",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "malum:haunted": 1
+        }
+      }
+    }
+  }
+}
