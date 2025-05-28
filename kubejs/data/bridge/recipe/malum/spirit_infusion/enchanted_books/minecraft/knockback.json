@@ -2,8 +2,8 @@
   "type": "malum:spirit_infusion",
   "spirits": [
     {
-      "type": "earthen",
-      "count": 8
+      "type": "eldritch",
+      "count": 4
     }
   ],
   "ingredient": {
@@ -11,11 +11,8 @@
   },
   "extraIngredients": [
     {
-      "item": "minecraft:potato",
+      "item": "minecraft:piston",
       "count": 3
-    },
-    {
-      "item": "malum:refined_brilliance"
     },
     {
       "item": "minecraft:lapis_lazuli",
@@ -32,7 +29,7 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "create:potato_recovery": 2
+          "minecraft:knockback": 1
         }
       }
     }

@@ -2,8 +2,16 @@
   "type": "malum:spirit_infusion",
   "spirits": [
     {
-      "type": "earthen",
-      "count": 8
+      "type": "arcane",
+      "count": 12
+    },
+    {
+      "type": "sacred",
+      "count": 12
+    },
+    {
+      "type": "eldritch",
+      "count": 18
     }
   ],
   "ingredient": {
@@ -11,11 +19,7 @@
   },
   "extraIngredients": [
     {
-      "item": "minecraft:potato",
-      "count": 3
-    },
-    {
-      "item": "malum:refined_brilliance"
+      "tag": "cobblemon:mints"
     },
     {
       "item": "minecraft:lapis_lazuli",
@@ -32,7 +36,7 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "create:potato_recovery": 2
+          "minecraft:mending": 1
         }
       }
     }

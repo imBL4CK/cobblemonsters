@@ -2,8 +2,16 @@
   "type": "malum:spirit_infusion",
   "spirits": [
     {
-      "type": "earthen",
-      "count": 8
+      "type": "aerial",
+      "count": 6
+    },
+    {
+      "type": "aqueous",
+      "count": 6
+    },
+    {
+      "type": "arcane",
+      "count": 6
     }
   ],
   "ingredient": {
@@ -11,11 +19,10 @@
   },
   "extraIngredients": [
     {
-      "item": "minecraft:potato",
-      "count": 3
+      "item": "minecraft:lightning_rod"
     },
     {
-      "item": "malum:refined_brilliance"
+      "item": "minecraft:heart_of_the_sea"
     },
     {
       "item": "minecraft:lapis_lazuli",
@@ -32,7 +39,7 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "create:potato_recovery": 2
+          "minecraft:chaneling": 1
         }
       }
     }

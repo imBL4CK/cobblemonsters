@@ -14,14 +14,14 @@
       "item": "minecraft:ender_eye"
     },
     {
-      "item": "minecraft:amethyst_shard",
-      "count": 2
-    },
-    {
       "item": "malum:refined_brilliance"
     },
     {
-      "item": "malum:refined_soulstone",
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
       "count": 2
     }
   ],

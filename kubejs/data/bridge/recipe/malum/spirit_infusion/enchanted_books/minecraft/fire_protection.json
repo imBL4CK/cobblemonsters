@@ -2,8 +2,16 @@
   "type": "malum:spirit_infusion",
   "spirits": [
     {
+      "type": "infernal",
+      "count": 10
+    },
+    {
       "type": "earthen",
-      "count": 8
+      "count": 10
+    },
+    {
+      "type": "arcane",
+      "count": 4
     }
   ],
   "ingredient": {
@@ -11,11 +19,11 @@
   },
   "extraIngredients": [
     {
-      "item": "minecraft:potato",
-      "count": 3
+      "item": "minecraft:sand",
+      "count": 4
     },
     {
-      "item": "malum:refined_brilliance"
+      "tag": "c:plates/iron"
     },
     {
       "item": "minecraft:lapis_lazuli",
@@ -32,7 +40,7 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "create:potato_recovery": 2
+          "minecraft:fire_protection": 3
         }
       }
     }

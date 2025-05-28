@@ -23,11 +23,15 @@
       "count": 4
     },
     {
-      "item": "cobblemon:deep_sea_tooth",
-      "count": 4
+      "item": "cobblemon:razor_fang",
+      "count": 2
     },
     {
-      "item": "malum:refined_soulstone",
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
       "count": 2
     }
   ],

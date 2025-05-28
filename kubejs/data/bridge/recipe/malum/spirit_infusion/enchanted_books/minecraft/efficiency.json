@@ -19,11 +19,15 @@
       "count": 16
     },
     {
-      "tag": "c:gems/amethyst",
+      "item": "rusticdelight:roasted_coffee_beans",
+      "count": 6
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
       "count": 2
     },
     {
-      "item": "malum:refined_soulstone",
+      "item": "minecraft:amethyst_shard",
       "count": 2
     }
   ],

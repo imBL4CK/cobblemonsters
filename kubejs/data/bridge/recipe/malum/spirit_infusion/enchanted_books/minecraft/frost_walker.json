@@ -2,8 +2,12 @@
   "type": "malum:spirit_infusion",
   "spirits": [
     {
-      "type": "earthen",
-      "count": 8
+      "type": "arcane",
+      "count": 12
+    },
+    {
+      "type": "aqueous",
+      "count": 4
     }
   ],
   "ingredient": {
@@ -11,11 +15,7 @@
   },
   "extraIngredients": [
     {
-      "item": "minecraft:potato",
-      "count": 3
-    },
-    {
-      "item": "malum:refined_brilliance"
+      "item": "minecraft:packed_ice"
     },
     {
       "item": "minecraft:lapis_lazuli",
@@ -32,7 +32,7 @@
     "components": {
       "minecraft:stored_enchantments": {
         "levels": {
-          "create:potato_recovery": 2
+          "minecraft:frost_walker": 2
         }
       }
     }
