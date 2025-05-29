@@ -556,10 +556,10 @@
                 "type": "minecraft:item",
                 "name": "farmersdelight:apple_pie",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -581,10 +581,10 @@
                 "type": "minecraft:item",
                 "name": "farmersdelight:barbecue_stick",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -606,10 +606,10 @@
                 "type": "minecraft:item",
                 "name": "farmersdelight:hamburger",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -631,10 +631,10 @@
                 "type": "minecraft:item",
                 "name": "farmersdelight:steak_and_potatoes",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -656,10 +656,10 @@
                 "type": "minecraft:item",
                 "name": "farmersdelight:pasta_with_meatballs",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -681,10 +681,10 @@
                 "type": "minecraft:item",
                 "name": "bountifulfares:forest_medley",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -706,10 +706,10 @@
                 "type": "minecraft:item",
                 "name": "bountifulfares:meadow_medley",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -731,10 +731,10 @@
                 "type": "minecraft:item",
                 "name": "bountifulfares:crusted_beef",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -756,10 +756,10 @@
                 "type": "minecraft:item",
                 "name": "bountifulfares:tropical_medley",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
                 ]
               },
               "max_uses": 8,
@@ -789,63 +789,222 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "exposure:camera"
+                "name": "malum:sacred_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
               },
-              "max_uses": 1,
+              "max_uses": 2,
               "price_multiplier": 0.05,
               "trader_experience": 1.0
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "cobblemon:relic_coin",
+                "name": "cobblemon:relic_coin_pouch",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 5
+                    "count": 2
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "exposure:developed_black_and_white_film",
+                "name": "malum:wicked_spirit",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 2
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
                 ]
               },
-              "max_uses": 3,
+              "max_uses": 2,
               "price_multiplier": 0.05,
               "trader_experience": 1.0
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_pouch"
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "exposure:developed_color_film"
-              },
-              "max_uses": 3,
-              "price_multiplier": 0.05,
-              "trader_experience": 1.0
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_pouch"
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "supplementaries:bomb",
+                "name": "cobblemon:relic_coin_pouch",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 2
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:arcane_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:eldritch_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:aerial_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:aqueous_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:earthen_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:infernal_spirit",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "max_uses": 2,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    },
+    {
+      "groups": [
+        {
+          "num_to_select": 1,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:rotting_essence",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
                 ]
               },
               "max_uses": 3,
@@ -857,85 +1016,21 @@
                 "type": "minecraft:item",
                 "name": "cobblemon:relic_coin_pouch",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 2
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "supplementaries:quiver"
-              },
-              "max_uses": 1,
-              "price_multiplier": 0.05,
-              "trader_experience": 1.0
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_sack"
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "cobblenav:pokenav_item_old"
-              },
-              "max_uses": 1,
-              "price_multiplier": 0.05,
-              "trader_experience": 1.0
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_pouch",
+                "name": "malum:grim_talc",
                 "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 2
-                    }
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
                 ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "sophisticatedbackpacks:copper_backpack"
-              },
-              "max_uses": 1,
-              "price_multiplier": 0.05,
-              "trader_experience": 1.0
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_pouch",
-                "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 2
-                    }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "simpletms:tr_blank"
-              },
-              "max_uses": 5,
-              "price_multiplier": 0.05,
-              "trader_experience": 1.0
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_pouch",
-                "functions": [
-                    {
-                        "function": "minecraft:set_count",
-                        "count": 3
-                    }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "simpletms:tm_blank"
               },
               "max_uses": 3,
               "price_multiplier": 0.05,
@@ -944,13 +1039,75 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "cobblemon:relic_coin_pouch"
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "supplementaries:lunch_basket"
+                "name": "malum:astral_weave",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
               },
-              "max_uses": 1,
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:wind_nucleus",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "max_uses": 3,
+              "price_multiplier": 0.05,
+              "trader_experience": 1.0
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "cobblemon:relic_coin_pouch",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "malum:warp_flux",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "max_uses": 3,
               "price_multiplier": 0.05,
               "trader_experience": 1.0
             }

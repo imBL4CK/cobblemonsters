@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "amount": 0,
+  "operation": "set",
+  "icon": "malum:slot/empty_rune_slot"
+}

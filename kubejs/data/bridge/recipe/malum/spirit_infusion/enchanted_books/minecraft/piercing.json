@@ -1,0 +1,41 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "aerial",
+      "count": 8
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "cobblemon:sky_tumblestone",
+      "count": 3
+    },
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:piercing": 2
+        }
+      }
+    }
+  }
+}

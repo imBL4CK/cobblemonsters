@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "addition": {
+    "tag": "c:plates/iron"
+  },
+  "template": {
+    "item": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "minecraft:iron_chestplate"
+  }
+}

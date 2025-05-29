@@ -1,0 +1,41 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 12
+    },
+    {
+      "type": "arcane",
+      "count": 8
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "tag": "c:plates/iron",
+      "count": 6
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:protection": 2
+        }
+      }
+    }
+  }
+}

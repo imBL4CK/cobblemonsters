@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "wicked",
+      "count": 8
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "cobblemon:silver_powder"
+    },
+    {
+      "item": "malum:refined_soulstone"
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:smite": 1
+        }
+      }
+    }
+  }
+}

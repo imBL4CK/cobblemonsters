@@ -1,0 +1,28 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "arcane",
+      "count": 4
+    },
+    {
+      "type": "earthen",
+      "count": 4
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:iron_boots"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:diamond",
+      "count": 4
+    },
+    {
+      "tag": "c:gems/quartz"
+    }
+  ],
+  "output": {
+    "id": "minecraft:diamond_boots"
+  }
+}

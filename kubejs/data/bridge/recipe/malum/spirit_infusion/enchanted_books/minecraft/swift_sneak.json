@@ -1,0 +1,36 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "aerial",
+      "count": 4
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "malum:soulwoven_silk"
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:swift_sneak": 2
+        }
+      }
+    }
+  }
+}

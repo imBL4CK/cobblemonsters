@@ -20,7 +20,7 @@ oldDeathpoints:true
 distance:1
 lockNorth:false
 zoom:0
-minimapSize:160
+minimapSize:140
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
@@ -130,4 +130,4 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-module;id=xaerominimap:minimap;active=true;x=-44;y=-14;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;
+module;id=xaerominimap:minimap;active=true;x=-38;y=-44;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;

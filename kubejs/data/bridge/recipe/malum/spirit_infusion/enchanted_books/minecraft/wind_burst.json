@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "aerial",
+      "count": 12
+    }
+  ],
+  "ingredient": {
+    "item": "minecraft:book"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:wind_charge"
+    },
+    {
+      "item": "malum:wind_nucleus"
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "count": 2
+    }
+  ],
+  "output": {
+    "count": 1,
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:wind_burst": 2
+        }
+      }
+    }
+  }
+}

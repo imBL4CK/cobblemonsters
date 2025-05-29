@@ -1,0 +1,53 @@
+{
+  "type": "malum:spirit_infusion",
+  "spirits": [
+    {
+      "type": "arcane",
+      "count": 64
+    },
+    {
+      "type": "eldritch",
+      "count": 64
+    },
+    {
+      "type": "sacred",
+      "count": 64
+    },
+    {
+      "type": "aerial",
+      "count": 64
+    },
+    {
+      "type": "aqueous",
+      "count": 64
+    },
+    {
+      "type": "earthen",
+      "count": 64
+    },
+    {
+      "type": "infernal",
+      "count": 64
+    },
+    {
+      "type": "wicked",
+      "count": 64
+    }
+  ],
+  "ingredient": {
+    "item": "malum:malignant_pewter_plating"
+  },
+  "extraIngredients": [
+    {
+      "item": "minecraft:shulker_shell",
+      "count": 2
+    },
+    {
+      "item": "minecraft:echo_shard",
+      "count": 2
+    }
+  ],
+  "output": {
+    "id": "cobblemon:master_ball"
+  }
+}

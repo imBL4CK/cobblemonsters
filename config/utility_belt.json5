@@ -12,7 +12,7 @@
 	/* - default: MIDDLE_LEFT
 	   - must be one of: TOP_LEFT, MIDDLE_LEFT, BOTTOM_LEFT, TOP_RIGHT, MIDDLE_RIGHT, BOTTOM_RIGHT
 	*/
-	hotbarPosition: "MIDDLE_LEFT",
+	hotbarPosition: "MIDDLE_RIGHT",
 	// - default: 0
 	hotbarOffsetX: 0,
 	// - default: 0

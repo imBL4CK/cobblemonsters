@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:leather"
+  },
+  "addition": {
+    "item": "minecraft:chain"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "minecraft:saddle"
+  }
+}
